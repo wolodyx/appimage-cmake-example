@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=AppName
+Exec=app
+Icon=AppIcon
+Type=Application
+Categories=Education;Development;
+Comment=AppImage example
+MimeType=inode/directory;audio/flac;
+Name[en]="App name"
+Terminal=false
+StartupNotify=true
+NoDisplay=false
+
